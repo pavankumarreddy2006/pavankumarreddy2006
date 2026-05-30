@@ -239,21 +239,31 @@
   
   <p>
     <a href="https://github.com/pavankumarreddy2006" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
-    <a href="https://linkedin.com/in/pavankumarreddy2006" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/pavankumarreddy-palla-48a611373/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    <a href="https://youtube.com/@pavankumarreddy2006" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <a href="https://www.youtube.com/@PAMdarkFiles" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
     </a>
-    <a href="https://instagram.com/pavankumarreddy2006" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://www.instagram.com/pavankumarreddy_46/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+    </a>
+    <a href="https://x.com/pavankumar96181" target="_blank">
+      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile" />
     </a>
   </p>
 
-  <p style="margin-top: 20px;">
-    <strong>📧 Email: pavankumarpalla3@gmail.com</strong>
+  <h3 style="margin-top: 30px;">📧 Get In Touch</h3>
+  <p>
+    <a href="mailto:pavankumarpalla3@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+    </a>
+  </p>
+
+  <p style="margin-top: 15px; font-size: 14px;">
+    <strong>pavankumarpalla3@gmail.com</strong>
   </p>
 </div>
 
