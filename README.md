@@ -1,4 +1,3 @@
-
 <!-- PROFILE HEADER WITH VISITOR COUNTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pavankumarreddy2006&label=Profile+Views&color=0969da&style=flat-square" alt="Profile Views" />
@@ -276,4 +275,3 @@
   
   <sub>Last Updated: May 2026 | Always Learning, Always Building 🚀</sub>
 </div>
-
