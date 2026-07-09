@@ -13,7 +13,7 @@
   </h1>
   
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=🤖+AI+Developer;⚙️+Auto[...]
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=🤖+AI+Developer;⚙️+Automation+Expert;🚀+Tech+Innovator;💡+Problem+Solver" alt="Typing SVG" />
   </h3>
 
   <p style="font-size: 18px; margin-top: 20px;">
@@ -41,7 +41,7 @@
   <h2>🎯 About Me</h2>
   
   <p style="max-width: 600px; margin: 0 auto;">
-    I'm an <strong>ambitious AI developer</strong> from India with an insatiable curiosity for technology and innovation. I believe in the power of automation and AI to solve real-world problems a[...]
+    I'm an <strong>ambitious AI developer</strong> from India with an insatiable curiosity for technology and innovation. I believe in the power of automation and AI to solve real-world problems and create meaningful impact. My journey is driven by continuous learning and a passion for building scalable solutions that matter.
   </p>
 
   <table style="margin: 20px auto;">
@@ -147,16 +147,16 @@
   <h2>📊 GitHub Analytics</h2>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=pavankumarreddy2006&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub St[...]
+    <img src="https://github-readme-stats.vercel.app/api?username=pavankumarreddy2006&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" style="margin: 5px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pavankumarreddy2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" style="margin: 5px;" />
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarreddy2006&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="60%" style="margin: 1[...]
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarreddy2006&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="60%" style="margin: 10px auto;" />
   </p>
 
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarreddy2006&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" style="margin: 10px auto;[...]
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarreddy2006&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" style="margin: 10px auto; display: block;" />
   </p>
 </div>
 
@@ -167,7 +167,7 @@
   <h2>🏆 Achievements</h2>
   
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=pavankumarreddy2006&theme=onedark&row=2&column=4&no-frame=true&margin-w=15" alt="Trophies" width="90%" style="margin: 10px auto; d[...]
+    <img src="https://github-profile-trophy.vercel.app/?username=pavankumarreddy2006&theme=onedark&row=2&column=4&no-frame=true&margin-w=15" alt="Trophies" width="90%" style="margin: 10px auto; display: block;" />
   </p>
 </div>
 
@@ -283,5 +283,5 @@
   
   <br/>
   
-  <sub>Last Updated: May 2026 | Always Learning, Always Building 🚀</sub>
+  <sub>Last Updated: July 2026 | Always Learning, Always Building 🚀</sub>
 </div>
